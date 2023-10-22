@@ -1,0 +1,395 @@
+.9_117 { 
+	overflow:hidden;
+}
+.e9_117 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1728px;
+	height:1117px;
+	position:absolute;
+}
+.e9_147 { 
+	background-color:rgba(239.00000095367432, 242.00000077486038, 249.00000035762787, 1);
+	width:1915px;
+	height:1246px;
+	position:absolute;
+	left:-9px;
+	top:-41px;
+}
+.e9_124 { 
+	transform: rotate(-179.91854009473465deg);
+	width:906.0005493164062px;
+	height:0px;
+	position:absolute;
+	left:1829px;
+	top:76.8594970703125px;
+}
+.9_124 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e9_154 { 
+	transform: rotate(179.94009895052523deg);
+	width:1913.0003662109375px;
+	height:0px;
+	position:absolute;
+	left:1871px;
+	top:175px;
+}
+.9_154 { 
+	border:1px solid rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+}
+.e20_2 { 
+	transform: rotate(179.94009895052523deg);
+	width:1913.0003662109375px;
+	height:0px;
+	position:absolute;
+	left:1871px;
+	top:175px;
+}
+.20_2 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e24_45 { 
+	background-color:rgba(248.0000004172325, 250.00000029802322, 255, 1);
+	width:1206px;
+	height:400px;
+	position:absolute;
+	left:470px;
+	top:216px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.24_45 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e24_47 { 
+	background-color:rgba(247.56250709295273, 249.79370176792145, 255, 1);
+	width:329px;
+	height:861px;
+	position:absolute;
+	left:46px;
+	top:216px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.24_47 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e24_46 { 
+	background-color:rgba(248.0000004172325, 250.00000029802322, 255, 1);
+	width:1194px;
+	height:401px;
+	position:absolute;
+	left:482px;
+	top:676px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.24_46 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e9_155 { 
+	transform: rotate(-90deg);
+	width:1130px;
+	height:0px;
+	position:absolute;
+	left:421px;
+	top:1306px;
+}
+.9_155 { 
+	border:1px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e9_127 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:146px;
+	height:38px;
+	position:absolute;
+	left:1001px;
+	top:108px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e9_128 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:137px;
+	height:38px;
+	position:absolute;
+	left:699px;
+	top:107px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e24_39 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:125px;
+	top:268px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e24_41 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:435px;
+	height:38px;
+	position:absolute;
+	left:529px;
+	top:721px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e24_38 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:293px;
+	height:96px;
+	position:absolute;
+	left:64px;
+	top:659px;
+	font-family:Scar;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e24_40 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:250px;
+	height:260px;
+	position:absolute;
+	left:85px;
+	top:779px;
+	font-family:Scar;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e9_129 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:261px;
+	height:38px;
+	position:absolute;
+	left:1171px;
+	top:108px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e24_50 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:240px;
+	height:38px;
+	position:absolute;
+	left:1456px;
+	top:107px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e9_132 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:116px;
+	height:38px;
+	position:absolute;
+	left:860px;
+	top:108px;
+	font-family:Scar;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e7_89 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:423px;
+	height:32px;
+	position:absolute;
+	left:1198px;
+	top:25px;
+	font-family:Scar;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.7_88 { 
+	border:3px solid rgba(176.00000470876694, 176.00000470876694, 177.0000046491623, 1);
+}
+.e7_88 { 
+	width:44.82395553588867px;
+	height:31.40627670288086px;
+	position:absolute;
+	left:1121px;
+	top:21px;
+}
+.24_31 { 
+	border:1px solid rgba(129.00000751018524, 130.0000074505806, 133.00000727176666, 1);
+}
+.e24_31 { 
+	width:193px;
+	height:180px;
+	position:absolute;
+	left:534px;
+	top:820px;
+	background-image:url(images/hard_fantasy_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.9_136 { 
+	border:1px solid rgba(129.00000751018524, 130.0000074505806, 133.00000727176666, 1);
+}
+.e9_136 { 
+	width:220px;
+	height:220px;
+	position:absolute;
+	left:100px;
+	top:362px;
+	background-image:url(images/screenshot_2023_09_14_at_23_23_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_123 { 
+	width:428px;
+	height:257px;
+	position:absolute;
+	left:32px;
+	top:8px;
+	background-image:url(images/no_bounds_template_black_ig_square_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_137 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:474px;
+	height:38px;
+	position:absolute;
+	left:522px;
+	top:268px;
+	font-family:Scar;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e9_139 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:219px;
+	height:42px;
+	position:absolute;
+	left:522px;
+	top:347px;
+	font-family:Scar;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e9_142 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:330px;
+	height:129px;
+	position:absolute;
+	left:529px;
+	top:418px;
+	font-family:Scar;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e24_48 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:330px;
+	height:129px;
+	position:absolute;
+	left:915px;
+	top:418px;
+	font-family:Scar;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e24_49 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:330px;
+	height:129px;
+	position:absolute;
+	left:1301px;
+	top:418px;
+	font-family:Scar;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e9_146 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:249px;
+	height:42px;
+	position:absolute;
+	left:915px;
+	top:347px;
+	font-family:Scar;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e9_145 { 
+	color:rgba(63.000000044703484, 63.000000044703484, 63.000000044703484, 1);
+	width:252px;
+	height:42px;
+	position:absolute;
+	left:1301px;
+	top:347px;
+	font-family:Scar;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.24_42 { 
+	border:1px solid rgba(129.00000751018524, 130.0000074505806, 133.00000727176666, 1);
+}
+.e24_42 { 
+	width:193px;
+	height:180px;
+	position:absolute;
+	left:1115px;
+	top:820px;
+	background-image:url(images/ineffable_sounds_ear_witness_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.24_44 { 
+	border:1px solid rgba(129.00000751018524, 130.0000074505806, 133.00000727176666, 1);
+}
+.e24_44 { 
+	width:193px;
+	height:180px;
+	position:absolute;
+	left:1406px;
+	top:820px;
+	background-image:url(images/1_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.24_43 { 
+	border:1px solid rgba(129.00000751018524, 130.0000074505806, 133.00000727176666, 1);
+}
+.e24_43 { 
+	width:193px;
+	height:180px;
+	position:absolute;
+	left:825px;
+	top:820px;
+	background-image:url(images/david_vassie_the_prayerbook_ep5_flat_image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

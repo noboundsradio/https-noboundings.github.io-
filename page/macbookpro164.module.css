@@ -1,0 +1,503 @@
+.root {
+    position: relative;
+    width: 1728px;
+    height: 1117px;
+    align-items: flex-start;
+    background-color: #fff;
+    overflow: hidden;
+  }
+  .rectangle6 {
+    position: absolute;
+    left: -9px;
+    top: -41px;
+    width: 1915px;
+    height: 1246px;
+    background-color: #eff2f9;
+  }
+  .line1 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 1829px;
+    top: 75.8595px;
+    width: 906.0005px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #b0b0b1;
+    margin-bottom: -1px;
+    transform: matrix(-1, -0.0014, 0.0009, -1, 0, 0);
+  }
+  .line2 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 1871px;
+    top: 174px;
+    width: 1913.0004px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #3f3f3f;
+    margin-bottom: -1px;
+    transform: matrix(-1, 0.001, -0.001, -1, 0, 0);
+  }
+  .line4 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 1871px;
+    top: 174px;
+    width: 1913.0004px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #b0b0b1;
+    margin-bottom: -1px;
+    transform: matrix(-1, 0.001, -0.001, -1, 0, 0);
+  }
+  .rectangle9 {
+    position: absolute;
+    left: 470px;
+    top: 216px;
+    width: 1206px;
+    height: 400px;
+    outline: solid 1px #b0b0b1;
+    outline-offset: -1px;
+    border-radius: 10px;
+    background-color: #f8faff;
+  }
+  .rectangle11 {
+    position: absolute;
+    left: 46px;
+    top: 216px;
+    width: 329px;
+    height: 861px;
+    outline: solid 1px #b0b0b1;
+    outline-offset: -1px;
+    border-radius: 10px;
+    background-color: #f8faff;
+  }
+  .rectangle10 {
+    position: absolute;
+    left: 482px;
+    top: 676px;
+    width: 1194px;
+    height: 401px;
+    outline: solid 1px #b0b0b1;
+    outline-offset: -1px;
+    border-radius: 10px;
+    background-color: #f8faff;
+  }
+  .line3 {
+    transform-origin: bottom left;
+    position: absolute;
+    left: 421px;
+    top: 1305px;
+    width: 1130px;
+    max-width: 100%;
+    height: 0;
+    max-height: 100%;
+    border-bottom: solid 1px #b0b0b1;
+    margin-bottom: -1px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+  }
+  .sHOWS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 1001px;
+    top: 108px;
+    width: 146px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .aBOUT {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 699px;
+    top: 107px;
+    width: 137px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .lATEST {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 125px;
+    top: 268px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .rECENTBROADCASTS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 529px;
+    top: 721px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .lIVEEVENTTHEIVYHOUSE29THNOV {
+    position: absolute;
+    left: 64px;
+    top: 659px;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .textBlock {
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock2 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock3 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .anEveningOfReadingsLiveMusicAn {
+    position: absolute;
+    left: 85px;
+    top: 779px;
+    width: 250px;
+    height: 260px;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .textBlock4 {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock5 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .rESIDENTS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 1171px;
+    top: 108px;
+    width: 261px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .pROPOSALS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 1456px;
+    top: 107px;
+    width: 240px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .nEWS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 860px;
+    top: 108px;
+    width: 116px;
+    height: min-content;
+    flex-direction: column;
+  }
+  .nowPlayingXxxxxxByXxxxxx {
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 1198px;
+    top: 25px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .vector1 {
+    position: absolute;
+    left: 1121px;
+    top: 21px;
+    width: 44.824px;
+    height: 31.4063px;
+    overflow: visible;
+  }
+  .icon {
+    width: 100%;
+    height: 100%;
+  }
+  .hardFantasy1 {
+    position: absolute;
+    left: 534px;
+    top: 820px;
+    width: 193px;
+    height: 180px;
+    outline: solid 1px #818285;
+    outline-offset: -1px;
+    background-image:/* webpackIgnore: true */ url('/assets/hardFantasy1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .screenshot2023914At23233 {
+    position: absolute;
+    left: 100px;
+    top: 362px;
+    width: 220px;
+    height: 220px;
+    outline: solid 1px #818285;
+    outline-offset: -1px;
+    background-image:/* webpackIgnore: true */ url('/assets/screenshot2023914At23233.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .noBoundsTemplateBlackIGSquare1 {
+    position: absolute;
+    left: 32px;
+    top: 8px;
+    width: 428px;
+    height: 257px;
+    background-image:/* webpackIgnore: true */ url('/assets/noBoundsTemplateBlackIGSquare1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .uPCOMINGBROADCASTS {
+    color: #3f3f3f;
+    font-size: 36px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 522px;
+    top: 268px;
+    width: min-content;
+    height: min-content;
+    text-align: center;
+    align-items: center;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  ._1stOctober {
+    color: #3f3f3f;
+    font-size: 40px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 522px;
+    top: 347px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  ._140ThePrayerBook150EightNine16 {
+    position: absolute;
+    left: 529px;
+    top: 418px;
+    width: 330px;
+    height: 129px;
+    flex-direction: column;
+  }
+  .textBlock6 {
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock7 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock8 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock9 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  ._140ThePrayerBook150EightNine162 {
+    position: absolute;
+    left: 915px;
+    top: 418px;
+    width: 330px;
+    height: 129px;
+    flex-direction: column;
+  }
+  .textBlock10 {
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock11 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock12 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock13 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  ._140ThePrayerBook150EightNine163 {
+    position: absolute;
+    left: 1301px;
+    top: 418px;
+    width: 330px;
+    height: 129px;
+    flex-direction: column;
+  }
+  .textBlock14 {
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock15 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock16 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  .textBlock17 {
+    margin-top: 0;
+    color: #3f3f3f;
+    font-size: 30px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+  }
+  ._13thOctober {
+    color: #3f3f3f;
+    font-size: 40px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 915px;
+    top: 347px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  ._20thOctober {
+    color: #3f3f3f;
+    font-size: 40px;
+    font-family: Scar, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    position: absolute;
+    left: 1301px;
+    top: 347px;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .ineffableSoundsEarWitness1 {
+    position: absolute;
+    left: 1115px;
+    top: 820px;
+    width: 193px;
+    height: 180px;
+    outline: solid 1px #818285;
+    outline-offset: -1px;
+    background-image:/* webpackIgnore: true */ url('/assets/ineffableSoundsEarWitness1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  ._15 {
+    position: absolute;
+    left: 1406px;
+    top: 820px;
+    width: 193px;
+    height: 180px;
+    outline: solid 1px #818285;
+    outline-offset: -1px;
+    background-image:/* webpackIgnore: true */ url('/assets/_15.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .davidVassieThePrayerbookEP5_Fl {
+    position: absolute;
+    left: 825px;
+    top: 820px;
+    width: 193px;
+    height: 180px;
+    outline: solid 1px #818285;
+    outline-offset: -1px;
+    background-image:/* webpackIgnore: true */ url('/assets/davidVassieThePrayerbookEP5_Fl.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
